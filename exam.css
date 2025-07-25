@@ -1,0 +1,48 @@
+.header1 {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: aquamarine;
+    text-align: center;
+}
+
+p {
+    color: aqua;
+    font-size: 25px;
+    text-align: center;
+}
+
+.container {
+    background-color: black;
+    width: 500px;
+    margin: auto;
+    padding-top: 10px;
+}
+
+body {
+    background-image: url(pic.jpg.jpg);
+    background-size: contain;
+}
+
+.button button {
+    background-color: black;
+    color: bisque;
+    margin-left: 650px;
+    margin-top: 10px;
+}
+
+button:hover {
+    background-color: blue;
+}
+
+.input input {
+    height: 30px;
+    width: 300px;
+    margin-left: 510px;
+    margin-top: -20px
+}
+
+.header2 {
+    color: blue;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 60px;
+    text-align: center;
+}
